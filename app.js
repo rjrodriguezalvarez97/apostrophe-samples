@@ -64,6 +64,7 @@ var apos = require('apostrophe')({
           ]
         }  
       ]
-    }
+    },
+    'test-dates': {}
   }
 });
